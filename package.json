@@ -1,5 +1,6 @@
 {
   "name": "my-dapp",
+  "homepage": "http://JRealMe.github.io/JBank-Dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
